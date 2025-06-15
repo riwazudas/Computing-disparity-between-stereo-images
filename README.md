@@ -32,7 +32,7 @@ This project is implemented as a Jupyter Notebook, allowing for an interactive a
   - matplotlib: For plotting and visualization.
   - opencv-python (or cv2): For image processing functionalities.
   - scipy: Potentially for image processing or optimization.
-  - 
+  
 You can install these using pip:
 ```bash
 pip install numpy matplotlib opencv-python scipy jupyter
